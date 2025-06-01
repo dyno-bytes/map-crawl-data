@@ -1,0 +1,1839 @@
+[
+  {
+    "id": "1",
+    "name": "All PyCubed Resources",
+    "url": "https://pycubed.org/All%20PyCubed%20Resources%208738cab0dd0743239a3cde30c6066452.html",
+    "children": [
+      {
+        "id": "2",
+        "name": "Code Examples",
+        "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html",
+        "children": [
+          {
+            "id": "3",
+            "name": "uart py",
+            "url": "https://pycubed.org/uart%20py%20137b3f66617b40b09001d5c58a0700fe.html",
+            "children": [
+              {
+                "id": "4",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "5",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "name": "rainbow py",
+            "url": "https://pycubed.org/rainbow%20py%202102c0bbbcaf4d52912ec564646e1778.html",
+            "children": [
+              {
+                "id": "7",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              },
+              {
+                "id": "8",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "name": "analog-input py",
+            "url": "https://pycubed.org/analog-input%20py%20082b62774c844eee9e5cb6b6bf31ad77.html",
+            "children": [
+              {
+                "id": "10",
+                "name": "ain5.jpg",
+                "url": "https://pycubed.org/ain5.jpg"
+              },
+              {
+                "id": "11",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "name": "spi py",
+            "url": "https://pycubed.org/spi%20py%20f68f3126aba24b95a12b39d48626ff20.html",
+            "children": [
+              {
+                "id": "13",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "14",
+                "name": "Pin Muxing",
+                "url": "https://pycubed.org/Pin%20Muxing%20f628615574354840b9634a6c52928f67.html"
+              },
+              {
+                "id": "15",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "name": "i2c py",
+            "url": "https://pycubed.org/i2c%20py%208a0b3e094ad94c41aa3cf1f79372f560.html",
+            "children": [
+              {
+                "id": "17",
+                "name": "IMU",
+                "url": "https://pycubed.org/IMU%20f98ae85cb57c4029bee6afdca7ca9e59.html"
+              },
+              {
+                "id": "18",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "19",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "name": "IMU",
+            "url": "https://pycubed.org/IMU%20f98ae85cb57c4029bee6afdca7ca9e59.html",
+            "children": [
+              {
+                "id": "21",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              },
+              {
+                "id": "22",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "name": "SD Card",
+            "url": "https://pycubed.org/SD%20Card%20c355537c29ba41e9b1f21bbe53e8463a.html",
+            "children": [
+              {
+                "id": "24",
+                "name": "Selecting an SD card",
+                "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+              },
+              {
+                "id": "25",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "name": "pycubed py",
+            "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html",
+            "children": [
+              {
+                "id": "27",
+                "name": "PyCubed NVM Bit Map & Usage",
+                "url": "https://pycubed.org/PyCubed%20NVM%20Bit%20Map%20&%20Usage%20e830e6f25b5544c195e5ea227e163665.html"
+              },
+              {
+                "id": "28",
+                "name": "SD Card",
+                "url": "https://pycubed.org/SD%20Card%20c355537c29ba41e9b1f21bbe53e8463a.html"
+              },
+              {
+                "id": "29",
+                "name": "Selecting an SD card",
+                "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+              },
+              {
+                "id": "30",
+                "name": "Radio",
+                "url": "https://pycubed.org/Radio%203f18f4d099464e32a75ef52e610982ff.html"
+              },
+              {
+                "id": "31",
+                "name": "Example Flight Software",
+                "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+              },
+              {
+                "id": "32",
+                "name": "PyCubed Energy Harvesting",
+                "url": "https://pycubed.org/PyCubed%20Energy%20Harvesting%2042d839b704574b97b994cab940405ae8.html"
+              },
+              {
+                "id": "33",
+                "name": "PyCubed Burn Wire Info & Usage",
+                "url": "https://pycubed.org/PyCubed%20Burn%20Wire%20Info%20&%20Usage%20796c1f07ef814ecca38f92eeb02e22ff.html"
+              },
+              {
+                "id": "34",
+                "name": "GPS",
+                "url": "https://pycubed.org/GPS%20142436b3a4904f2c85024d28902a75f0.html"
+              },
+              {
+                "id": "35",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "36",
+                "name": "Component Datasheets",
+                "url": "https://pycubed.org/Component%20Datasheets%20df17cd3ee1584311917b28255ffa0180.html"
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "name": "Radio",
+            "url": "https://pycubed.org/Radio%203f18f4d099464e32a75ef52e610982ff.html",
+            "children": [
+              {
+                "id": "38",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              },
+              {
+                "id": "39",
+                "name": "Beep-Sat (basic)",
+                "url": "https://pycubed.org/Beep-Sat%20(basic)%20a3074e1925d74835bd3e2e3543819981.html"
+              },
+              {
+                "id": "40",
+                "name": "Antennas",
+                "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+              },
+              {
+                "id": "41",
+                "name": "Beep-Sat (advanced)",
+                "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+              },
+              {
+                "id": "42",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "43",
+                "name": "Component Datasheets",
+                "url": "https://pycubed.org/Component%20Datasheets%20df17cd3ee1584311917b28255ffa0180.html"
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "name": "digitalio py",
+            "url": "https://pycubed.org/digitalio%20py%208b397b7e90bc4ab2a14488e797bf60ca.html",
+            "children": [
+              {
+                "id": "45",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "name": "i2c-scan py",
+            "url": "https://pycubed.org/i2c-scan%20py%2041f66fcc495c4cf5922c8965dbc94741.html",
+            "children": [
+              {
+                "id": "47",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "48",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "name": "blink py",
+            "url": "https://pycubed.org/blink%20py%206c2cc08ec7d24c238f5de919723d6465.html",
+            "children": [
+              {
+                "id": "50",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "51",
+                "name": "rgb.jpg",
+                "url": "https://pycubed.org/rgb.jpg"
+              },
+              {
+                "id": "52",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "name": "Beep-Sat (basic)",
+            "url": "https://pycubed.org/Beep-Sat%20(basic)%20a3074e1925d74835bd3e2e3543819981.html"
+          },
+          {
+            "id": "54",
+            "name": "Beep-Sat (advanced)",
+            "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+          },
+          {
+            "id": "55",
+            "name": "analog-output py",
+            "url": "https://pycubed.org/analog-output%20py%20f64ecb903bd343e88fc01715c4f5024b.html",
+            "children": [
+              {
+                "id": "56",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "57",
+                "name": "dac0.jpg",
+                "url": "https://pycubed.org/dac0.jpg"
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "name": "GPS",
+            "url": "https://pycubed.org/GPS%20142436b3a4904f2c85024d28902a75f0.html",
+            "children": [
+              {
+                "id": "59",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "60",
+                "name": "adafruit_gps.py",
+                "url": "https://pycubed.org/adafruit_gps.py"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "name": "Novel Serial Bus Protection",
+        "url": "https://pycubed.org/Novel%20Serial%20Bus%20Protection%2068e933da3bf3481b8401ce0cf2f00172.html",
+        "children": [
+          {
+            "id": "62",
+            "name": "Payloads & Interfacing with External Boards",
+            "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "name": "Component Datasheets",
+        "url": "https://pycubed.org/Component%20Datasheets%20df17cd3ee1584311917b28255ffa0180.html",
+        "children": [
+          {
+            "id": "64",
+            "name": "DS_SX1276-7-8-9_W_APP_V7.pdf",
+            "url": "https://pycubed.org/DS_SX1276-7-8-9_W_APP_V7.pdf"
+          },
+          {
+            "id": "65",
+            "name": "bq25883-KMB.pdf",
+            "url": "https://pycubed.org/bq25883-KMB.pdf"
+          },
+          {
+            "id": "66",
+            "name": "BMX160.pdf",
+            "url": "https://pycubed.org/BMX160.pdf"
+          },
+          {
+            "id": "67",
+            "name": "HopeRF_RF96-97-98_Datasheet.pdf",
+            "url": "https://pycubed.org/HopeRF_RF96-97-98_Datasheet.pdf"
+          },
+          {
+            "id": "68",
+            "name": "tps54226.pdf",
+            "url": "https://pycubed.org/tps54226.pdf"
+          },
+          {
+            "id": "69",
+            "name": "LTC4121.pdf",
+            "url": "https://pycubed.org/LTC4121.pdf"
+          },
+          {
+            "id": "70",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "71",
+            "name": "ADM1176.pdf",
+            "url": "https://pycubed.org/ADM1176.pdf"
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "name": "mainboard-v01",
+        "url": "https://pycubed.org/mainboard-v01%20db6f4b91c7124e178322dc372d5a5b98.html",
+        "children": [
+          {
+            "id": "73",
+            "name": "mainboard 1.pdf",
+            "url": "https://pycubed.org/mainboard%201.pdf"
+          },
+          {
+            "id": "74",
+            "name": "mainboard.pdf",
+            "url": "https://pycubed.org/mainboard.pdf"
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "name": "Programming the Bootloader",
+        "url": "https://pycubed.org/Programming%20the%20Bootloader%20343b47d1ad6f4863b512d6464aa7b84e.html",
+        "children": [
+          {
+            "id": "76",
+            "name": "Updating PyCubed",
+            "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html"
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "name": "Accessing the Serial Console",
+        "url": "https://pycubed.org/Accessing%20the%20Serial%20Console%20bfd69dfcd5f544e4b1c1164f29d8c45f.html",
+        "children": [
+          {
+            "id": "78",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "name": "v04 \u2192 v05 Change Log",
+        "url": null,
+        "children": [
+          {
+            "id": "80",
+            "name": "Novel Serial Bus Protection",
+            "url": "https://pycubed.org/Novel%20Serial%20Bus%20Protection%2068e933da3bf3481b8401ce0cf2f00172.html"
+          },
+          {
+            "id": "81",
+            "name": "Inhibits & RBF Header",
+            "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+          },
+          {
+            "id": "82",
+            "name": "Payloads & Interfacing with External Boards",
+            "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Inhibits & RBF Header",
+        "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+      },
+      {
+        "id": "84",
+        "name": "forums",
+        "url": "https://pycubed.org/forums"
+      },
+      {
+        "id": "85",
+        "name": "Default Libraries",
+        "url": "https://pycubed.org/Default%20Libraries%2027319b5abc0440deaa706404156e0731.html",
+        "children": [
+          {
+            "id": "86",
+            "name": "Untitled.jpg",
+            "url": "https://pycubed.org/Untitled.jpg"
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "name": "CircuitPython RGB Status Reference",
+        "url": "https://pycubed.org/CircuitPython%20RGB%20Status%20Reference%2072e59ad315e942d6a2619dc5d9a7799f.html"
+      },
+      {
+        "id": "88",
+        "name": "Pin Muxing",
+        "url": "https://pycubed.org/Pin%20Muxing%20f628615574354840b9634a6c52928f67.html",
+        "children": [
+          {
+            "id": "89",
+            "name": "Payloads & Interfacing with External Boards",
+            "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "name": "Selecting an SD card",
+        "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html",
+        "children": [
+          {
+            "id": "91",
+            "name": "PyCubed at SmallSat 2019",
+            "url": "https://pycubed.org/PyCubed%20at%20SmallSat%202019%20e9ad4c9755ec4f158270b7b3692ae8f7.html"
+          }
+        ]
+      },
+      {
+        "id": "92",
+        "name": "Battery Board Overview",
+        "url": "https://pycubed.org/Battery%20Board%20Overview%205b1357e9c6cc477c839fe5a118ec0879.html",
+        "children": [
+          {
+            "id": "93",
+            "name": "batteryboardv01_glam 1.jpg",
+            "url": "https://pycubed.org/batteryboardv01_glam%201.jpg"
+          }
+        ]
+      },
+      {
+        "id": "94",
+        "name": "mainboard-v02",
+        "url": "https://pycubed.org/mainboard-v02%20aca0cdbe510842a4a7c19637b8be8cab.html",
+        "children": [
+          {
+            "id": "95",
+            "name": "mainboard 3.pdf",
+            "url": "https://pycubed.org/mainboard%203.pdf"
+          },
+          {
+            "id": "96",
+            "name": "mainboard 2.pdf",
+            "url": "https://pycubed.org/mainboard%202.pdf"
+          }
+        ]
+      },
+      {
+        "id": "97",
+        "name": "mainboard-v05",
+        "url": "https://pycubed.org/mainboard-v05%20a554b1772c7a4731a862a75cc109b765.html",
+        "children": [
+          {
+            "id": "98",
+            "name": "mainboard-v05 1.pdf",
+            "url": "https://pycubed.org/mainboard-v05%201.pdf"
+          },
+          {
+            "id": "99",
+            "name": "mainboard-v05.pdf",
+            "url": "https://pycubed.org/mainboard-v05.pdf"
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "name": "PyCubed mainboard-v04 Pinout",
+        "url": "https://pycubed.org/PyCubed%20mainboard-v04%20Pinout%20b969421d6cf3407d89e2ee6ccd86c059.html",
+        "children": [
+          {
+            "id": "101",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          },
+          {
+            "id": "102",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          },
+          {
+            "id": "103",
+            "name": "SWDIO",
+            "url": "https://pycubed.org/SWDIO%20a5927ec8b3bd41d1b472f9b56b9ce770.html"
+          },
+          {
+            "id": "104",
+            "name": "AIN5",
+            "url": "https://pycubed.org/AIN5%201f8c9ec4c1f54ccdabee554edb4061d1.html"
+          },
+          {
+            "id": "105",
+            "name": "SCK",
+            "url": "https://pycubed.org/SCK%20413cb59d97e24d1aa9796e0493e1a1c8.html"
+          },
+          {
+            "id": "106",
+            "name": "DAC0",
+            "url": "https://pycubed.org/DAC0%20c38b3d8c97044db2b244919db4d90f21.html"
+          },
+          {
+            "id": "107",
+            "name": "PB22",
+            "url": "https://pycubed.org/PB22%2060904057e2284653997c6fe8d575c91f.html"
+          },
+          {
+            "id": "108",
+            "name": "PA22",
+            "url": "https://pycubed.org/PA22%20a08419ef42614cb4b67f2c351b1e410c.html"
+          },
+          {
+            "id": "109",
+            "name": "PA20",
+            "url": "https://pycubed.org/PA20%200ef6f07cb431458e97e37ae7d080fceb.html"
+          },
+          {
+            "id": "110",
+            "name": "AIN4",
+            "url": "https://pycubed.org/AIN4%200ba68df3e88f4556877c472cc0687cb1.html"
+          },
+          {
+            "id": "111",
+            "name": "PB23",
+            "url": "https://pycubed.org/PB23%20ae7bee32df634ab0a7148b0d41f3874b.html"
+          },
+          {
+            "id": "112",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          },
+          {
+            "id": "113",
+            "name": "PA16",
+            "url": "https://pycubed.org/PA16%206ad7dfd9106c4b9f8e8b45160557af93.html"
+          },
+          {
+            "id": "114",
+            "name": "PA19",
+            "url": "https://pycubed.org/PA19%206680c7a4593b4d958dfe9837f2870766.html"
+          },
+          {
+            "id": "115",
+            "name": "MISO",
+            "url": "https://pycubed.org/MISO%2063c432af4ec84bc4b55e6ad64bc75354.html"
+          },
+          {
+            "id": "116",
+            "name": "PB16",
+            "url": "https://pycubed.org/PB16%20639a73a38f21470e8bef61c8ebe604c3.html"
+          },
+          {
+            "id": "117",
+            "name": "PA18",
+            "url": "https://pycubed.org/PA18%20cef516554ff24ba996dcd989ca070d42.html"
+          },
+          {
+            "id": "118",
+            "name": "RESET",
+            "url": "https://pycubed.org/RESET%205905528ed6e844dea2244786f6120aac.html"
+          },
+          {
+            "id": "119",
+            "name": "PB17",
+            "url": "https://pycubed.org/PB17%20d497f137835444f48d0dcdfefdb37d25.html"
+          },
+          {
+            "id": "120",
+            "name": "MOSI",
+            "url": "https://pycubed.org/MOSI%2084943d7e37514e0584256988fc72e34b.html"
+          },
+          {
+            "id": "121",
+            "name": "SWCLK",
+            "url": "https://pycubed.org/SWCLK%20697cd7b0d8234cfeab468bf957032b6a.html"
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "name": "Radio Modifications (optional)",
+        "url": "https://pycubed.org/Radio%20Modifications%20(optional)%204397b84230824664bd6c8bfd90eb08ca.html"
+      },
+      {
+        "id": "123",
+        "name": "Contact Us",
+        "url": "https://pycubed.org/Contact%20Us%2070e805a60ad645fa9ed7383afebe1305.html",
+        "children": [
+          {
+            "id": "124",
+            "name": "email-protection",
+            "url": "https://pycubed.org/cdn-cgi/l/email-protection"
+          },
+          {
+            "id": "125",
+            "name": "forums",
+            "url": "https://pycubed.org/forums"
+          }
+        ]
+      },
+      {
+        "id": "126",
+        "name": "FAQ",
+        "url": "https://pycubed.org/FAQ%20c8d7c6de743745ef9c2b4cc1ea262f69.html",
+        "children": [
+          {
+            "id": "127",
+            "name": "Updating PyCubed",
+            "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html"
+          },
+          {
+            "id": "128",
+            "name": "Building the PyCubed Firmware from Source",
+            "url": "https://pycubed.org/Building%20the%20PyCubed%20Firmware%20from%20Source%20edd6215b3d364fdf9dc4af67582c4006.html"
+          },
+          {
+            "id": "129",
+            "name": "forums",
+            "url": "https://pycubed.org/forums"
+          },
+          {
+            "id": "130",
+            "name": "pycubed py",
+            "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+          },
+          {
+            "id": "131",
+            "name": "Payloads & Interfacing with External Boards",
+            "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+          },
+          {
+            "id": "132",
+            "name": "Selecting an SD card",
+            "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+          },
+          {
+            "id": "133",
+            "name": "Battery Board Overview",
+            "url": "https://pycubed.org/Battery%20Board%20Overview%205b1357e9c6cc477c839fe5a118ec0879.html"
+          },
+          {
+            "id": "134",
+            "name": "Example Flight Software",
+            "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html",
+            "children": [
+              {
+                "id": "135",
+                "name": "Next Steps",
+                "url": "https://pycubed.org/Next%20Steps%20f280449625804a38a3ed9c9358249374.html"
+              },
+              {
+                "id": "136",
+                "name": "Beep-Sat (basic)",
+                "url": "https://pycubed.org/Beep-Sat%20(basic)%20a3074e1925d74835bd3e2e3543819981.html"
+              },
+              {
+                "id": "137",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "138",
+                "name": "Beep-Sat (advanced)",
+                "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "140",
+            "name": "Antennas",
+            "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+          },
+          {
+            "id": "141",
+            "name": "Troubleshooting",
+            "url": "https://pycubed.org/Troubleshooting%20828f6ffccee44597a9b8b6c2ed417fb5.html"
+          }
+        ]
+      },
+      {
+        "id": "142",
+        "name": "Over-the-air Updates (coming soon!)",
+        "url": "https://pycubed.org/Over-the-air%20Updates%20(coming%20soon!)%206e09a2c8b96b4e2a8fe7ab09a68c03d6.html",
+        "children": [
+          {
+            "id": "143",
+            "name": "Beep-Sat (advanced)",
+            "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+          }
+        ]
+      },
+      {
+        "id": "144",
+        "name": "PyCubed at SmallSat 2019",
+        "url": "https://pycubed.org/PyCubed%20at%20SmallSat%202019%20e9ad4c9755ec4f158270b7b3692ae8f7.html"
+      },
+      {
+        "id": "145",
+        "name": "Benchtop Usage & CubeSat Structures",
+        "url": "https://pycubed.org/Benchtop%20Usage%20&%20CubeSat%20Structures%20395ae7b4069e4f62b687a0593077687c.html",
+        "children": [
+          {
+            "id": "146",
+            "name": "benchtop_usb.jpg",
+            "url": "https://pycubed.org/benchtop_usb.jpg"
+          }
+        ]
+      },
+      {
+        "id": "147",
+        "name": "Beep-Sat (basic)",
+        "url": "https://pycubed.org/Beep-Sat%20(basic)%20a3074e1925d74835bd3e2e3543819981.html",
+        "children": [
+          {
+            "id": "148",
+            "name": "pycubed py",
+            "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+          },
+          {
+            "id": "149",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "150",
+            "name": "Antennas",
+            "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+          },
+          {
+            "id": "151",
+            "name": "Beep-Sat (advanced)",
+            "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+          },
+          {
+            "id": "152",
+            "name": "Code Examples",
+            "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+          },
+          {
+            "id": "153",
+            "name": "Component Datasheets",
+            "url": "https://pycubed.org/Component%20Datasheets%20df17cd3ee1584311917b28255ffa0180.html"
+          },
+          {
+            "id": "154",
+            "name": "Accessing the Serial Console",
+            "url": "https://pycubed.org/Accessing%20the%20Serial%20Console%20bfd69dfcd5f544e4b1c1164f29d8c45f.html"
+          }
+        ]
+      },
+      {
+        "id": "155",
+        "name": "USB-C Battery Charging",
+        "url": "https://pycubed.org/USB-C%20Battery%20Charging%201a68101c65e04792b006c371c495f8c7.html",
+        "children": [
+          {
+            "id": "156",
+            "name": "Inhibits & RBF Header",
+            "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+          },
+          {
+            "id": "157",
+            "name": "usbcharger.jpg",
+            "url": "https://pycubed.org/usbcharger.jpg"
+          },
+          {
+            "id": "158",
+            "name": "chargingled.jpg",
+            "url": "https://pycubed.org/chargingled.jpg"
+          }
+        ]
+      },
+      {
+        "id": "159",
+        "name": "Building a PyCubed Board",
+        "url": "https://pycubed.org/Building%20a%20PyCubed%20Board%20a96c0274d5b54693b47995088f3ffa0d.html",
+        "children": [
+          {
+            "id": "160",
+            "name": "Troubleshooting",
+            "url": "https://pycubed.org/Troubleshooting%20828f6ffccee44597a9b8b6c2ed417fb5.html"
+          }
+        ]
+      },
+      {
+        "id": "161",
+        "name": "Hands-On Quick Start",
+        "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html",
+        "children": [
+          {
+            "id": "162",
+            "name": "Unpacking & Hardware Overview",
+            "url": "https://pycubed.org/Unpacking%20&%20Hardware%20Overview%20fa478fa84a4a4285990e85424cf4935a.html",
+            "children": [
+              {
+                "id": "163",
+                "name": "Inhibits & RBF Header",
+                "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+              },
+              {
+                "id": "164",
+                "name": "mainboardv05_features 1.jpg",
+                "url": "https://pycubed.org/mainboardv05_features%201.jpg"
+              },
+              {
+                "id": "165",
+                "name": "Download Mu",
+                "url": "https://pycubed.org/Download%20Mu%205fd6280e8b134f809edf4f7187d3d939.html"
+              },
+              {
+                "id": "166",
+                "name": "mainboardv05_connectors.jpg",
+                "url": "https://pycubed.org/mainboardv05_connectors.jpg"
+              },
+              {
+                "id": "167",
+                "name": "Mainboard Overview",
+                "url": "https://pycubed.org/Mainboard%20Overview%20cddd2b21f58940e991ad60450f1adae0.html"
+              },
+              {
+                "id": "168",
+                "name": "standoff.jpg",
+                "url": "https://pycubed.org/standoff.jpg"
+              },
+              {
+                "id": "169",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "name": "Connect & Verify",
+            "url": "https://pycubed.org/Connect%20&%20Verify%207946bb84cabb42c7ac25f53d2a9f6810.html",
+            "children": [
+              {
+                "id": "171",
+                "name": "main 1.py",
+                "url": "https://pycubed.org/main%201.py"
+              },
+              {
+                "id": "172",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "173",
+                "name": "Unpacking & Hardware Overview",
+                "url": "https://pycubed.org/Unpacking%20&%20Hardware%20Overview%20fa478fa84a4a4285990e85424cf4935a.html"
+              },
+              {
+                "id": "174",
+                "name": "Troubleshooting",
+                "url": "https://pycubed.org/Troubleshooting%20828f6ffccee44597a9b8b6c2ed417fb5.html"
+              },
+              {
+                "id": "175",
+                "name": "HelloWorld py",
+                "url": "https://pycubed.org/HelloWorld%20py%20787a5acff9264935b024a4e088ec4964.html"
+              },
+              {
+                "id": "176",
+                "name": "Download Mu",
+                "url": "https://pycubed.org/Download%20Mu%205fd6280e8b134f809edf4f7187d3d939.html"
+              }
+            ]
+          },
+          {
+            "id": "177",
+            "name": "Download Mu",
+            "url": "https://pycubed.org/Download%20Mu%205fd6280e8b134f809edf4f7187d3d939.html",
+            "children": [
+              {
+                "id": "178",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "179",
+                "name": "Connect & Verify",
+                "url": "https://pycubed.org/Connect%20&%20Verify%207946bb84cabb42c7ac25f53d2a9f6810.html"
+              },
+              {
+                "id": "180",
+                "name": "Accessing the Serial Console",
+                "url": "https://pycubed.org/Accessing%20the%20Serial%20Console%20bfd69dfcd5f544e4b1c1164f29d8c45f.html"
+              }
+            ]
+          },
+          {
+            "id": "181",
+            "name": "glam.jpg",
+            "url": "https://pycubed.org/glam.jpg"
+          },
+          {
+            "id": "182",
+            "name": "Next Steps",
+            "url": "https://pycubed.org/Next%20Steps%20f280449625804a38a3ed9c9358249374.html",
+            "children": [
+              {
+                "id": "183",
+                "name": "Example Flight Software",
+                "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+              },
+              {
+                "id": "184",
+                "name": "Benchtop Usage & CubeSat Structures",
+                "url": "https://pycubed.org/Benchtop%20Usage%20&%20CubeSat%20Structures%20395ae7b4069e4f62b687a0593077687c.html"
+              },
+              {
+                "id": "185",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "186",
+                "name": "Antennas",
+                "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+              },
+              {
+                "id": "187",
+                "name": "Beep-Sat (advanced)",
+                "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html"
+              },
+              {
+                "id": "188",
+                "name": "Troubleshooting",
+                "url": "https://pycubed.org/Troubleshooting%20828f6ffccee44597a9b8b6c2ed417fb5.html"
+              },
+              {
+                "id": "189",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "190",
+                "name": "Updating PyCubed",
+                "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html"
+              },
+              {
+                "id": "191",
+                "name": "Building the PyCubed Firmware from Source",
+                "url": "https://pycubed.org/Building%20the%20PyCubed%20Firmware%20from%20Source%20edd6215b3d364fdf9dc4af67582c4006.html"
+              },
+              {
+                "id": "192",
+                "name": "FAQ",
+                "url": "https://pycubed.org/FAQ%20c8d7c6de743745ef9c2b4cc1ea262f69.html"
+              },
+              {
+                "id": "193",
+                "name": "forums",
+                "url": "https://pycubed.org/forums"
+              },
+              {
+                "id": "194",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              },
+              {
+                "id": "195",
+                "name": "Payloads & Interfacing with External Boards",
+                "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+              },
+              {
+                "id": "196",
+                "name": "Selecting an SD card",
+                "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+              },
+              {
+                "id": "197",
+                "name": "Battery Board Overview",
+                "url": "https://pycubed.org/Battery%20Board%20Overview%205b1357e9c6cc477c839fe5a118ec0879.html"
+              }
+            ]
+          },
+          {
+            "id": "198",
+            "name": "Example Flight Software",
+            "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+          },
+          {
+            "id": "199",
+            "name": "Using the pycubed py Library",
+            "url": "https://pycubed.org/Using%20the%20pycubed%20py%20Library%207c10aa3f899e4a5aadcca88ebfec5b6d.html",
+            "children": [
+              {
+                "id": "200",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "201",
+                "name": "HelloWorld py",
+                "url": "https://pycubed.org/HelloWorld%20py%20787a5acff9264935b024a4e088ec4964.html"
+              },
+              {
+                "id": "202",
+                "name": "pycubed py",
+                "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+              },
+              {
+                "id": "203",
+                "name": "FAQ",
+                "url": "https://pycubed.org/FAQ%20c8d7c6de743745ef9c2b4cc1ea262f69.html"
+              },
+              {
+                "id": "204",
+                "name": "Example Flight Software",
+                "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "name": "HelloWorld py",
+            "url": "https://pycubed.org/HelloWorld%20py%20787a5acff9264935b024a4e088ec4964.html",
+            "children": [
+              {
+                "id": "206",
+                "name": "main 1.py",
+                "url": "https://pycubed.org/main%201.py"
+              },
+              {
+                "id": "207",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "208",
+                "name": "Using the pycubed py Library",
+                "url": "https://pycubed.org/Using%20the%20pycubed%20py%20Library%207c10aa3f899e4a5aadcca88ebfec5b6d.html"
+              },
+              {
+                "id": "209",
+                "name": "Connect & Verify",
+                "url": "https://pycubed.org/Connect%20&%20Verify%207946bb84cabb42c7ac25f53d2a9f6810.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "210",
+        "name": "PyCubed NVM Bit Map & Usage",
+        "url": "https://pycubed.org/PyCubed%20NVM%20Bit%20Map%20&%20Usage%20e830e6f25b5544c195e5ea227e163665.html",
+        "children": [
+          {
+            "id": "211",
+            "name": "BOOT_COUNT",
+            "url": "https://pycubed.org/BOOT_COUNT%203e432d94439740e18833e6f5a35b16be.html"
+          },
+          {
+            "id": "212",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          }
+        ]
+      },
+      {
+        "id": "213",
+        "name": "Antennas",
+        "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+      },
+      {
+        "id": "214",
+        "name": "Software & Firmware",
+        "url": "https://pycubed.org/Software%20&%20Firmware%204c5671853de648d6adceedceaa088a81.html",
+        "children": [
+          {
+            "id": "215",
+            "name": "Example Flight Software",
+            "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+          },
+          {
+            "id": "216",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "217",
+            "name": "Code Examples",
+            "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+          },
+          {
+            "id": "218",
+            "name": "Updating PyCubed",
+            "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html"
+          },
+          {
+            "id": "219",
+            "name": "Building the PyCubed Firmware from Source",
+            "url": "https://pycubed.org/Building%20the%20PyCubed%20Firmware%20from%20Source%20edd6215b3d364fdf9dc4af67582c4006.html"
+          },
+          {
+            "id": "220",
+            "name": "Programming the Bootloader",
+            "url": "https://pycubed.org/Programming%20the%20Bootloader%20343b47d1ad6f4863b512d6464aa7b84e.html"
+          }
+        ]
+      },
+      {
+        "id": "221",
+        "name": "PyCubed Schematic (latest v05)",
+        "url": "https://pycubed.org/PyCubed%20Schematic%20(latest%20v05)%2015a123bc1b1d430d80f5c093c3d20595.html",
+        "children": [
+          {
+            "id": "222",
+            "name": "mainboard-v05 3.pdf",
+            "url": "https://pycubed.org/mainboard-v05%203.pdf"
+          },
+          {
+            "id": "223",
+            "name": "mainboard-v05 2.pdf",
+            "url": "https://pycubed.org/mainboard-v05%202.pdf"
+          }
+        ]
+      },
+      {
+        "id": "224",
+        "name": "Beep-Sat (advanced)",
+        "url": "https://pycubed.org/Beep-Sat%20(advanced)%202d93fbe63d1a42cc8ce084b6f19535ba.html",
+        "children": [
+          {
+            "id": "225",
+            "name": "Accessing the Serial Console",
+            "url": "https://pycubed.org/Accessing%20the%20Serial%20Console%20bfd69dfcd5f544e4b1c1164f29d8c45f.html"
+          },
+          {
+            "id": "226",
+            "name": "PyCubed NVM Bit Map & Usage",
+            "url": "https://pycubed.org/PyCubed%20NVM%20Bit%20Map%20&%20Usage%20e830e6f25b5544c195e5ea227e163665.html"
+          },
+          {
+            "id": "227",
+            "name": "forums",
+            "url": "https://pycubed.org/forums"
+          },
+          {
+            "id": "228",
+            "name": "Next Steps",
+            "url": "https://pycubed.org/Next%20Steps%20f280449625804a38a3ed9c9358249374.html"
+          },
+          {
+            "id": "229",
+            "name": "Selecting an SD card",
+            "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+          },
+          {
+            "id": "230",
+            "name": "Beep-Sat (basic)",
+            "url": "https://pycubed.org/Beep-Sat%20(basic)%20a3074e1925d74835bd3e2e3543819981.html"
+          },
+          {
+            "id": "231",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "232",
+            "name": "Antennas",
+            "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+          },
+          {
+            "id": "233",
+            "name": "Over-the-air Updates (coming soon!)",
+            "url": "https://pycubed.org/Over-the-air%20Updates%20(coming%20soon!)%206e09a2c8b96b4e2a8fe7ab09a68c03d6.html"
+          }
+        ]
+      },
+      {
+        "id": "234",
+        "name": "PyCubed Energy Harvesting",
+        "url": "https://pycubed.org/PyCubed%20Energy%20Harvesting%2042d839b704574b97b994cab940405ae8.html",
+        "children": [
+          {
+            "id": "235",
+            "name": "Component Datasheets",
+            "url": "https://pycubed.org/Component%20Datasheets%20df17cd3ee1584311917b28255ffa0180.html"
+          },
+          {
+            "id": "236",
+            "name": "pycubed py",
+            "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+          }
+        ]
+      },
+      {
+        "id": "237",
+        "name": "Payloads & Interfacing with External Boards",
+        "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html",
+        "children": [
+          {
+            "id": "238",
+            "name": "Pin Muxing",
+            "url": "https://pycubed.org/Pin%20Muxing%20f628615574354840b9634a6c52928f67.html"
+          }
+        ]
+      },
+      {
+        "id": "239",
+        "name": "Troubleshooting",
+        "url": "https://pycubed.org/Troubleshooting%20828f6ffccee44597a9b8b6c2ed417fb5.html",
+        "children": [
+          {
+            "id": "240",
+            "name": "Accessing the Serial Console",
+            "url": "https://pycubed.org/Accessing%20the%20Serial%20Console%20bfd69dfcd5f544e4b1c1164f29d8c45f.html"
+          },
+          {
+            "id": "241",
+            "name": "Inhibits & RBF Header",
+            "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+          },
+          {
+            "id": "242",
+            "name": "forums",
+            "url": "https://pycubed.org/forums"
+          },
+          {
+            "id": "243",
+            "name": "Configuring Mu Editor to Work with PyCubed",
+            "url": "https://pycubed.org/Configuring%20Mu%20Editor%20to%20Work%20with%20PyCubed%202fd951eb02e74560872ea9308981e24b.html"
+          },
+          {
+            "id": "244",
+            "name": "Example Flight Software",
+            "url": "https://pycubed.org/Example%20Flight%20Software%20f5211336a43144db8177d78097774d27.html"
+          },
+          {
+            "id": "245",
+            "name": "Hands-On Quick Start",
+            "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+          },
+          {
+            "id": "246",
+            "name": "Antennas",
+            "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+          },
+          {
+            "id": "247",
+            "name": "Unpacking & Hardware Overview",
+            "url": "https://pycubed.org/Unpacking%20&%20Hardware%20Overview%20fa478fa84a4a4285990e85424cf4935a.html"
+          },
+          {
+            "id": "248",
+            "name": "Erasing the PyCubed Memory",
+            "url": "https://pycubed.org/Erasing%20the%20PyCubed%20Memory%208f0453f590e2476f9085c2e7c4617880.html",
+            "children": [
+              {
+                "id": "249",
+                "name": "erase_m4.uf2",
+                "url": "https://pycubed.org/erase_m4.uf2"
+              }
+            ]
+          },
+          {
+            "id": "250",
+            "name": "Code Examples",
+            "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+          },
+          {
+            "id": "251",
+            "name": "Connect & Verify",
+            "url": "https://pycubed.org/Connect%20&%20Verify%207946bb84cabb42c7ac25f53d2a9f6810.html"
+          },
+          {
+            "id": "252",
+            "name": "Contact Us",
+            "url": "https://pycubed.org/Contact%20Us%2070e805a60ad645fa9ed7383afebe1305.html"
+          },
+          {
+            "id": "253",
+            "name": "FAQ",
+            "url": "https://pycubed.org/FAQ%20c8d7c6de743745ef9c2b4cc1ea262f69.html"
+          },
+          {
+            "id": "254",
+            "name": "Download Mu",
+            "url": "https://pycubed.org/Download%20Mu%205fd6280e8b134f809edf4f7187d3d939.html"
+          }
+        ]
+      },
+      {
+        "id": "255",
+        "name": "mainboard-v04",
+        "url": "https://pycubed.org/mainboard-v04%20ea9d9916fd37489e9cfc23fcbbc6cef9.html",
+        "children": [
+          {
+            "id": "256",
+            "name": "mainboard 5.pdf",
+            "url": "https://pycubed.org/mainboard%205.pdf"
+          },
+          {
+            "id": "257",
+            "name": "mainboard 4.pdf",
+            "url": "https://pycubed.org/mainboard%204.pdf"
+          }
+        ]
+      },
+      {
+        "id": "258",
+        "name": "Mainboard Overview",
+        "url": "https://pycubed.org/Mainboard%20Overview%20cddd2b21f58940e991ad60450f1adae0.html",
+        "children": [
+          {
+            "id": "259",
+            "name": "MAX706RS-T",
+            "url": "https://pycubed.org/MAX706RS-T%209ff57edbafa14f71b9678ddef5c1d215.html",
+            "children": [
+              {
+                "id": "260",
+                "name": "Using the External Watchdog Timer",
+                "url": "https://pycubed.org/Using%20the%20External%20Watchdog%20Timer%20f1402e1493bf4e47a55abb2210581eae.html"
+              }
+            ]
+          },
+          {
+            "id": "261",
+            "name": "MR25H40MDF",
+            "url": "https://pycubed.org/MR25H40MDF%20b6a17b06816b4e25913e65bd8cbd3046.html"
+          },
+          {
+            "id": "262",
+            "name": "glam.jpg",
+            "url": "https://pycubed.org/glam.jpg"
+          },
+          {
+            "id": "263",
+            "name": "ATSAMD51J20A-AU",
+            "url": "https://pycubed.org/ATSAMD51J20A-AU%2097e4c732263d4666932a87ad66a15413.html"
+          },
+          {
+            "id": "264",
+            "name": "Burn Wire Circuit",
+            "url": "https://pycubed.org/Burn%20Wire%20Circuit%2028886557f4bb4828b74d2a3be8369ce5.html",
+            "children": [
+              {
+                "id": "265",
+                "name": "PyCubed Burn Wire Info & Usage",
+                "url": "https://pycubed.org/PyCubed%20Burn%20Wire%20Info%20&%20Usage%20796c1f07ef814ecca38f92eeb02e22ff.html"
+              }
+            ]
+          },
+          {
+            "id": "266",
+            "name": "Inhibits & RBF Header",
+            "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+          },
+          {
+            "id": "267",
+            "name": "Selecting an SD card",
+            "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+          },
+          {
+            "id": "268",
+            "name": "TPS7A4501DCQT",
+            "url": "https://pycubed.org/TPS7A4501DCQT%20ab1f8ef276024322a96f4bc147b661a9.html"
+          },
+          {
+            "id": "269",
+            "name": "TPS54226",
+            "url": "https://pycubed.org/TPS54226%2029efdc18852a47a8bc64ccc0e85dba6e.html"
+          },
+          {
+            "id": "270",
+            "name": "Antennas",
+            "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+          },
+          {
+            "id": "271",
+            "name": "mainboardv05_connectors.jpg",
+            "url": "https://pycubed.org/mainboardv05_connectors.jpg"
+          },
+          {
+            "id": "272",
+            "name": "PyCubed Energy Harvesting",
+            "url": "https://pycubed.org/PyCubed%20Energy%20Harvesting%2042d839b704574b97b994cab940405ae8.html"
+          },
+          {
+            "id": "273",
+            "name": "BMX160",
+            "url": "https://pycubed.org/BMX160%20f6555247c9f940d7aa2226514f4c0401.html"
+          },
+          {
+            "id": "274",
+            "name": "Payloads & Interfacing with External Boards",
+            "url": "https://pycubed.org/Payloads%20&%20Interfacing%20with%20External%20Boards%20de6a89e8a76b4a65bf042630f1592068.html"
+          },
+          {
+            "id": "275",
+            "name": "PyCubed Burn Wire Info & Usage",
+            "url": "https://pycubed.org/PyCubed%20Burn%20Wire%20Info%20&%20Usage%20796c1f07ef814ecca38f92eeb02e22ff.html"
+          },
+          {
+            "id": "276",
+            "name": "RFM98PW",
+            "url": "https://pycubed.org/RFM98PW%20bf30e866e11d433dbbd3de718002f1d9.html",
+            "children": [
+              {
+                "id": "277",
+                "name": "Antennas",
+                "url": "https://pycubed.org/Antennas%20c25a3258aae94318a7459e52e61ebb8c.html"
+              }
+            ]
+          },
+          {
+            "id": "278",
+            "name": "mainboardv05_features.jpg",
+            "url": "https://pycubed.org/mainboardv05_features.jpg"
+          },
+          {
+            "id": "279",
+            "name": "ADM1176",
+            "url": "https://pycubed.org/ADM1176%2013dde5fa176d456689c08c4b9d2cf337.html"
+          },
+          {
+            "id": "280",
+            "name": "LTC4121",
+            "url": "https://pycubed.org/LTC4121%20204b7ad817d3439688b5d3a384c17913.html",
+            "children": [
+              {
+                "id": "281",
+                "name": "PyCubed Energy Harvesting",
+                "url": "https://pycubed.org/PyCubed%20Energy%20Harvesting%2042d839b704574b97b994cab940405ae8.html"
+              }
+            ]
+          },
+          {
+            "id": "282",
+            "name": "Micro SD Socket",
+            "url": "https://pycubed.org/Micro%20SD%20Socket%20234ac2bc9cd8423db1ba7c6c6e8feff8.html",
+            "children": [
+              {
+                "id": "283",
+                "name": "Selecting an SD card",
+                "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+              }
+            ]
+          },
+          {
+            "id": "284",
+            "name": "Novel Serial Bus Protection",
+            "url": "https://pycubed.org/Novel%20Serial%20Bus%20Protection%2068e933da3bf3481b8401ce0cf2f00172.html"
+          },
+          {
+            "id": "285",
+            "name": "Inhibits",
+            "url": "https://pycubed.org/Inhibits%20887749c766b24fae860ef76ef792bc58.html",
+            "children": [
+              {
+                "id": "286",
+                "name": "Inhibits & RBF Header",
+                "url": "https://pycubed.org/Inhibits%20&%20RBF%20Header%2047a1f6c21af94591843c7cfbfcf2f82e.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "287",
+        "name": "Plotting Serial Data Realtime",
+        "url": "https://pycubed.org/Plotting%20Serial%20Data%20Realtime%20248e28de0dd7441e91c6429e447fe478.html"
+      },
+      {
+        "id": "288",
+        "name": "PyCubed Burn Wire Info & Usage",
+        "url": "https://pycubed.org/PyCubed%20Burn%20Wire%20Info%20&%20Usage%20796c1f07ef814ecca38f92eeb02e22ff.html",
+        "children": [
+          {
+            "id": "289",
+            "name": "pycubed py",
+            "url": "https://pycubed.org/pycubed%20py%20b80aabda74284488bfd9b8ef46a0eba2.html"
+          }
+        ]
+      },
+      {
+        "id": "290",
+        "name": "PyCubed mainboard-v02 Pinout",
+        "url": "https://pycubed.org/PyCubed%20mainboard-v02%20Pinout%2044d5c93a7f8e43ecada410a75edae64a.html",
+        "children": [
+          {
+            "id": "291",
+            "name": "PB17",
+            "url": "https://pycubed.org/PB17%20d497f137835444f48d0dcdfefdb37d25.html"
+          },
+          {
+            "id": "292",
+            "name": "PB22",
+            "url": "https://pycubed.org/PB22%2060904057e2284653997c6fe8d575c91f.html"
+          },
+          {
+            "id": "293",
+            "name": "PB15",
+            "url": "https://pycubed.org/PB15%209d762699205a4975aa9a6cc8a48a3f3b.html"
+          },
+          {
+            "id": "294",
+            "name": "DAC0",
+            "url": "https://pycubed.org/DAC0%20c38b3d8c97044db2b244919db4d90f21.html"
+          },
+          {
+            "id": "295",
+            "name": "PA18",
+            "url": "https://pycubed.org/PA18%20cef516554ff24ba996dcd989ca070d42.html"
+          },
+          {
+            "id": "296",
+            "name": "PA20",
+            "url": "https://pycubed.org/PA20%200ef6f07cb431458e97e37ae7d080fceb.html"
+          },
+          {
+            "id": "297",
+            "name": "SCK",
+            "url": "https://pycubed.org/SCK%20413cb59d97e24d1aa9796e0493e1a1c8.html"
+          },
+          {
+            "id": "298",
+            "name": "PA22",
+            "url": "https://pycubed.org/PA22%20a08419ef42614cb4b67f2c351b1e410c.html"
+          },
+          {
+            "id": "299",
+            "name": "PA16",
+            "url": "https://pycubed.org/PA16%206ad7dfd9106c4b9f8e8b45160557af93.html"
+          },
+          {
+            "id": "300",
+            "name": "PA19",
+            "url": "https://pycubed.org/PA19%206680c7a4593b4d958dfe9837f2870766.html"
+          },
+          {
+            "id": "301",
+            "name": "PB14",
+            "url": "https://pycubed.org/PB14%206359c62baf9649188b8cd34bc46c3117.html"
+          },
+          {
+            "id": "302",
+            "name": "PB23",
+            "url": "https://pycubed.org/PB23%20ae7bee32df634ab0a7148b0d41f3874b.html"
+          },
+          {
+            "id": "303",
+            "name": "PB16",
+            "url": "https://pycubed.org/PB16%20639a73a38f21470e8bef61c8ebe604c3.html"
+          },
+          {
+            "id": "304",
+            "name": "MOSI",
+            "url": "https://pycubed.org/MOSI%2084943d7e37514e0584256988fc72e34b.html"
+          },
+          {
+            "id": "305",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          },
+          {
+            "id": "306",
+            "name": "Untitled",
+            "url": "https://pycubed.org/Untitled%208f166304e07643128218a0571b207835.html"
+          },
+          {
+            "id": "307",
+            "name": "MISO",
+            "url": "https://pycubed.org/MISO%2063c432af4ec84bc4b55e6ad64bc75354.html"
+          }
+        ]
+      },
+      {
+        "id": "308",
+        "name": "In Progress",
+        "url": "https://pycubed.org/In%20Progress%2039b1cfd8f8fb47e9ae8a8f1d23ce1818.html",
+        "children": [
+          {
+            "id": "309",
+            "name": "Sync Blocks",
+            "url": "https://pycubed.org/Sync%20Blocks%208bd6ea0316fd45cfa2335685094627c3.html",
+            "children": [
+              {
+                "id": "310",
+                "name": "Hands-On Quick Start",
+                "url": "https://pycubed.org/Hands-On%20Quick%20Start%20d220f0ec88eb41c08ee855ff4f46d737.html"
+              },
+              {
+                "id": "311",
+                "name": "Code Examples",
+                "url": "https://pycubed.org/Code%20Examples%202f140c2c6c834a4589e5642ee6a34576.html"
+              },
+              {
+                "id": "312",
+                "name": "main 1.py",
+                "url": "https://pycubed.org/main%201.py"
+              }
+            ]
+          },
+          {
+            "id": "313",
+            "name": "Misc",
+            "url": "https://pycubed.org/Misc%20744c9327d828450eb7fdf38e2a093172.html",
+            "children": [
+              {
+                "id": "314",
+                "name": "ACD23-0110-001_0.jpg",
+                "url": "https://pycubed.org/ACD23-0110-001_0.jpg"
+              }
+            ]
+          },
+          {
+            "id": "315",
+            "name": "Template",
+            "url": "https://pycubed.org/Template%20565f48a3e7cb44f986f49e6a62090c9d.html"
+          },
+          {
+            "id": "316",
+            "name": "Preparing a CubeSat",
+            "url": "https://pycubed.org/Preparing%20a%20CubeSat%20bc25d341c3d046c9ad723633599f8cf0.html",
+            "children": [
+              {
+                "id": "317",
+                "name": "Selecting an SD card",
+                "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "318",
+        "name": "Hardware",
+        "url": "https://pycubed.org/Hardware%208921489e5168447d80b9f68fa7856a50.html",
+        "children": [
+          {
+            "id": "319",
+            "name": "Battery Board Overview",
+            "url": "https://pycubed.org/Battery%20Board%20Overview%205b1357e9c6cc477c839fe5a118ec0879.html"
+          },
+          {
+            "id": "320",
+            "name": "Mainboard Overview",
+            "url": "https://pycubed.org/Mainboard%20Overview%20cddd2b21f58940e991ad60450f1adae0.html"
+          },
+          {
+            "id": "321",
+            "name": "batteryboardv01_glam.jpg",
+            "url": "https://pycubed.org/batteryboardv01_glam.jpg"
+          },
+          {
+            "id": "322",
+            "name": "mainboardv04c_glam.jpg",
+            "url": "https://pycubed.org/mainboardv04c_glam.jpg"
+          }
+        ]
+      },
+      {
+        "id": "323",
+        "name": "Low Power Operation",
+        "url": "https://pycubed.org/Low%20Power%20Operation%2026fa0b86be884734bdd76855a6c8d052.html",
+        "children": [
+          {
+            "id": "324",
+            "name": "PyCubed NVM Bit Map & Usage",
+            "url": "https://pycubed.org/PyCubed%20NVM%20Bit%20Map%20&%20Usage%20e830e6f25b5544c195e5ea227e163665.html"
+          },
+          {
+            "id": "325",
+            "name": "main.py",
+            "url": "https://pycubed.org/main.py"
+          },
+          {
+            "id": "326",
+            "name": "Selecting an SD card",
+            "url": "https://pycubed.org/Selecting%20an%20SD%20card%20edf389776ac64f91b19bc4428ee43941.html"
+          },
+          {
+            "id": "327",
+            "name": "Battery Board Overview",
+            "url": "https://pycubed.org/Battery%20Board%20Overview%205b1357e9c6cc477c839fe5a118ec0879.html"
+          }
+        ]
+      },
+      {
+        "id": "328",
+        "name": "Using the External Watchdog Timer",
+        "url": "https://pycubed.org/Using%20the%20External%20Watchdog%20Timer%20f1402e1493bf4e47a55abb2210581eae.html"
+      },
+      {
+        "id": "329",
+        "name": "Updating PyCubed",
+        "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html",
+        "children": [
+          {
+            "id": "330",
+            "name": "image.jpg",
+            "url": "https://pycubed.org/image.jpg"
+          }
+        ]
+      },
+      {
+        "id": "331",
+        "name": "Building the PyCubed Firmware from Source",
+        "url": "https://pycubed.org/Building%20the%20PyCubed%20Firmware%20from%20Source%20edd6215b3d364fdf9dc4af67582c4006.html",
+        "children": [
+          {
+            "id": "332",
+            "name": "Software & Firmware",
+            "url": "https://pycubed.org/Software%20&%20Firmware%204c5671853de648d6adceedceaa088a81.html"
+          },
+          {
+            "id": "333",
+            "name": "Using the External Watchdog Timer",
+            "url": "https://pycubed.org/Using%20the%20External%20Watchdog%20Timer%20f1402e1493bf4e47a55abb2210581eae.html"
+          },
+          {
+            "id": "334",
+            "name": "Updating PyCubed",
+            "url": "https://pycubed.org/Updating%20PyCubed%20cbc8b47a677549ed98fc5b23b5a04fac.html"
+          },
+          {
+            "id": "335",
+            "name": "Programming the Bootloader",
+            "url": "https://pycubed.org/Programming%20the%20Bootloader%20343b47d1ad6f4863b512d6464aa7b84e.html"
+          }
+        ]
+      },
+      {
+        "id": "336",
+        "name": "mainboard-v05 CAD (interactive)",
+        "url": "https://pycubed.org/mainboard-v05%20CAD%20(interactive)%200c5a9e96ec9b4b25917aee43760a7555.html",
+        "children": [
+          {
+            "id": "337",
+            "name": "mainboard.step",
+            "url": "https://pycubed.org/mainboard.step"
+          },
+          {
+            "id": "338",
+            "name": "pycubedv05_drawing.pdf",
+            "url": "https://pycubed.org/pycubedv05_drawing.pdf"
+          }
+        ]
+      },
+      {
+        "id": "339",
+        "name": "Formal Documentation",
+        "url": "https://pycubed.org/Formal%20Documentation%20587d05fdf1fc4f27956a1dbbd79ed019.html"
+      }
+    ]
+  }
+]
